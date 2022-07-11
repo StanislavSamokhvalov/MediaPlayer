@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MediaPlayer</string>
+    <string name="track_name">Название песни</string>
+    <string name="album_title">Название альбома</string>
+    <string name="title">Альбом</string>
+    <string name="artist">Исполнитель</string>
+</resources>
